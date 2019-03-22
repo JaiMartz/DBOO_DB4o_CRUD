@@ -3,11 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/NetBeansProjects/Segundo_Cuatrimestre/AD_DB4o/src/ad_db4o/BorrarDB4o.java</file>
-            <file>file:/E:/NetBeansProjects/Segundo_Cuatrimestre/AD_DB4o/src/ad_db4o/CrearDB4o.java</file>
-            <file>file:/E:/NetBeansProjects/Segundo_Cuatrimestre/AD_DB4o/src/ad_db4o/Empleado.java</file>
-            <file>file:/E:/NetBeansProjects/Segundo_Cuatrimestre/AD_DB4o/src/ad_db4o/ConsultarDB4o.java</file>
-            <file>file:/E:/NetBeansProjects/Segundo_Cuatrimestre/AD_DB4o/src/ad_db4o/ActualizarDB4o.java</file>
+            <file>file:/E:/NetBeansProjects/Segundo_Cuatrimestre/empleadosDB4o/src/ad_db4o/ConsultarDB4o.java</file>
+            <file>file:/E:/NetBeansProjects/Segundo_Cuatrimestre/empleadosDB4o/src/ad_db4o/Empleado.java</file>
+            <file>file:/E:/NetBeansProjects/Segundo_Cuatrimestre/empleadosDB4o/src/ad_db4o/CrearDB4o.java</file>
         </group>
     </open-files>
 </project-private>

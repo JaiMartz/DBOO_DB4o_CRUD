@@ -17,8 +17,8 @@ public class CrearDB4o {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
         
+        //PATH Base de datos
         String urlDB = "C:\\Users\\Yleve\\Desktop\\BDOO\\gestionLaboral1819.yap";
         
         //Creamos la conexion con la BD
