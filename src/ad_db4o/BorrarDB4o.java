@@ -12,7 +12,7 @@ import com.db4o.query.Query;
 
 /**
  *
- * @author Yleve
+ * @author Jairo
  */
 public class BorrarDB4o {
     public static void main(String[] args) {
